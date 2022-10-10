@@ -20,20 +20,27 @@
   "license": "ISC",
   "devDependencies": {
     "cssmin": "^0.4.3",
+    "grunt": "^1.5.3",
+    "grunt-browser-sync": "^2.2.0",
+    "grunt-contrib-watch": "^1.1.0",
+    "grunt-sass": "^3.1.0",
     "htmlmin": "^0.0.7",
-    "lite-server": "^2.3.0",
+    "jit-grunt": "^0.10.0",
+    "lite-server": "^2.6.1",
     "node-sass": "^7.0.3",
-    "onchange": "^3.3.0",
-    "parallelshell": "^3.0.1",
-    "rimraf": "^2.6.2",
+    "onchange": "^7.1.0",
+    "parallelshell": "^3.0.2",
+    "rimraf": "^3.0.2",
+    "time-grunt": "^2.0.0",
     "uglifyjs": "^2.4.11",
-    "usemin-cli": "^0.5.1"
+    "usemin-cli": "^0.6.0"
   },
   "dependencies": {
     "bootstrap": "^4.0.0",
     "bootstrap-social": "^5.1.1",
     "font-awesome": "^4.7.0",
     "jquery": "^3.3.1",
+    "node-gyp": "^9.2.0",
     "popper.js": "^1.12.9"
   }
 }
